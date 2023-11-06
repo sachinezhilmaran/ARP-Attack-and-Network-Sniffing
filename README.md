@@ -25,14 +25,17 @@ Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
 ## OUTPUT:
 ![image](https://github.com/sachinezhilmaran/ARP-Attack-and-Network-Sniffing/assets/128135351/968d6dd7-1455-4312-9b00-e4db6e39a129)
+
 From kali linux issue the command : sudo arpspoof -i eth0 -t
 # OUTPUT:
 ![image](https://github.com/sachinezhilmaran/ARP-Attack-and-Network-Sniffing/assets/128135351/ee3dc26a-438a-4d83-b7c2-0e27fe1c51e0)
+
 dsniff:
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 
 # OUTPUT:
 ![image](https://github.com/sachinezhilmaran/ARP-Attack-and-Network-Sniffing/assets/128135351/56999a83-03fd-4cb0-8d75-c606a8cc0588)
+
 In Kali issue the following commands: sudo dsnifff
 
 # OUTPUT:
